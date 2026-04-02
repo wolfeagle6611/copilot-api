@@ -4,6 +4,9 @@ node_modules/
 # local env
 *.local
 
+# system file
+.Ds_Store
+
 # aider
 .aider*
 
